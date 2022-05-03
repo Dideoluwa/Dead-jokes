@@ -8,7 +8,7 @@ btn1.addEventListener('click',async function(){
         let para = document.createElement('p')
     para.innerText =await getDeadJokes();
     para.classList.add('list')
-    // div.innerHTML = ''
+    div.innerHTML = ''
     div.appendChild(para)
     }
     catch(e){

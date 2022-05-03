@@ -25,10 +25,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(158, 86, 86);
+    /* background-color: rgb(158, 86, 86); */
 }
 .list{
-    color: rgb(5, 4, 4);
+    color: rgb(205, 225, 205);
     font-size: 30px;
 }
 button{
